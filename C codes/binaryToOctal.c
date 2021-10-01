@@ -28,3 +28,5 @@ int convert(long long bin) {
     }
     return oct;
 }
+
+//binary to octal conversion
